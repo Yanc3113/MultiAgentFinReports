@@ -3,4 +3,4 @@ MCP+AIGC+Finance
 
 Cooperation between SCUT and UCONN
 
-developera: Ruhao Liu, Yan Cai, Jing Ling
+developers: Ruhao Liu, Yan Cai, Jing Ling
