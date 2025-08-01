@@ -3,4 +3,6 @@ MCP+AIGC+Finance
 
 Cooperation between SCUT and UCONN
 
-developers: Ruhao Liu, Yan Cai, Jing Ling
+developers: Ruhao Liu (https://github.com/amiya-special), 
+            Yan Cai, 
+            Jing Ling 
